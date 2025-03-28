@@ -1,10 +1,10 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
-  "text1": "It's your birthday!!! :D",
+  "greeting": "Hi",
+  "name": "Nehal..",
+  "greetingText": "I love your name btw (🙈)",
+  "wishText": "Thank you for making every day so special.",
+  "imagePath": "img/chiku.png",
+  "text1": "It's your birthday!!! Tu 20 ho gayi 🥹🥹",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
@@ -12,12 +12,12 @@
   "text4": "I realised, I wanted to do something",
   "text4Adjective": "special",
   "text5Entry": "Because,",
-  "text5Content": "You are Special",
+  "text5Content": "You are Special Chiku",
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": ":)"
+  "outroText": "Thank you for everything baccha.. You’re the best thing to ever happen to me.",
+  "replayText": "I love you baby, can’t wait to celebrate with you. Happy Birthday!",
+  "outroSmiley": "<3"
 }
